@@ -1,7 +1,7 @@
-## Hi there 👋
-
-
 ![rafifkri](img/github-header-banner.png)
+
+
+## Hi there 👋
 
 🎓 Data Science Student | Telkom University, Faculty of Informatics
 
