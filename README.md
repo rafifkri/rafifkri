@@ -1,4 +1,4 @@
-![rafifkri](img/<img width="1584" height="396" alt="Black Minimalist Elegant Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/86e45bbb-5712-4b2d-aaad-516a6707397e" />
+<img width="1584" height="396" alt="Black Minimalist Elegant Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/86e45bbb-5712-4b2d-aaad-516a6707397e" />
 )
 
 
