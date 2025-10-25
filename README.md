@@ -14,13 +14,15 @@ Currently pursuing a Bachelor’s degree in Data Science, developing strong foun
 🚀 Always eager to learn, collaborate, and contribute to open-source projects that bring value through data-driven innovation.
 
 #### My Skills
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
 
 
 #### Connect with me
@@ -29,7 +31,7 @@ Currently pursuing a Bachelor’s degree in Data Science, developing strong foun
 #### My Github Stats
 [![Rafif Fikri stats](https://github-readme-stats.vercel.app/api?username=rafifkri&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left">Play games with me</p>
+#### Play games with me
 
 ###
 
