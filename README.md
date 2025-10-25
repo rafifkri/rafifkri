@@ -29,7 +29,9 @@ Currently pursuing a Bachelor’s degree in Data Science, developing strong foun
 #### My Github Stats
 [![Rafif Fikri stats](https://github-readme-stats.vercel.app/api?username=rafifkri&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Play Game wih ME
+<p align="left">Play games with me</p>
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafifkri/rafifkri/output/pacman-contribution-graph-dark.svg">
@@ -37,6 +39,11 @@ Currently pursuing a Bachelor’s degree in Data Science, developing strong foun
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rafifkri/rafifkri/output/pacman-contribution-graph.svg">
 </picture>
 
+###
+
+<img src="https://raw.githubusercontent.com/rafifkri/rafifkri/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 
